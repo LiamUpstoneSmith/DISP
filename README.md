@@ -1,6 +1,10 @@
 # DISP
 
 ## Group Members
-Mujeebur Alshamsi<br>
-Ahmed Alharbi<br>
-Liam Upstone-Smith<br>
+Ahmed Alharbi <br>
+Omar Almutairi <br>
+Mujeebur Alshamsi <br>
+Lewis Carroll <br>
+Muhammad Shayan Nagori <br>
+Liam Upstone-Smith <br>
+
