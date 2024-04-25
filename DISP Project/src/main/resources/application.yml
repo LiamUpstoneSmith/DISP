@@ -1,0 +1,6 @@
+zeebe.client.cloud.region=jfk-1
+zeebe.client.cloud.clusterId=c31853d1-8836-462a-aa3a-567d91462308
+zeebe.client.cloud.clientId=4KtMQPVyWo5qpk89fRyDfg8H53NLo2xN
+zeebe.client.cloud.clientSecret=U1efXgFFB.OTSAkwQfR3hcvRJO1n2EnSdkN.DXRCk2n7OvTIy-QOQrS.78kVigBL
+
+camunda.connector.polling.enabled=false
